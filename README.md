@@ -7,3 +7,7 @@ The visual graph of fraud detection website, determine whether the company is at
 
 ## Demonstration
 - [demo](http://kpmg-risk.herokuapp.com/)
+
+## Data
+
+- The overall data proceessing is in [KPMG data analysis.py](./KPMG data analysis.py)
