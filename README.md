@@ -10,4 +10,4 @@ The visual graph of fraud detection website, determine whether the company is at
 
 ## Data
 
-- The overall data proceessing is in [KPMG data analysis.py](./KPMG data analysis.py)
+- The overall data proceessing is in [KPMG data analysis.py](https://github.com/h30306/Fintech.github.io/blob/master/KPMG%20data%20analysis.py)
